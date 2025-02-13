@@ -1,7 +1,0 @@
-2025-02-03 20:31:53 - INFO - Start polling
-2025-02-03 20:31:53 - INFO - Run polling for bot @odfopjdfiohniodfhopjdfh_bot id=7915533202 - 'ijdsgijsiodgjsiodgjiosg'
-2025-02-03 20:32:10 - INFO - Update id=652331029 is handled. Duration 859 ms by bot id=7915533202
-2025-02-03 20:32:17 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
-2025-02-03 20:32:17 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7915533202)
-2025-02-03 20:32:28 - INFO - Connection established (tryings = 1, bot id = 7915533202)
-2025-02-03 20:33:43 - INFO - Update id=652331030 is handled. Duration 328 ms by bot id=7915533202
