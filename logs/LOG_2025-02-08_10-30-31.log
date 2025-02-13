@@ -1,0 +1,4 @@
+2025-02-08 10:30:31 - INFO - Start polling
+2025-02-08 10:30:31 - INFO - Run polling for bot @odfopjdfiohniodfhopjdfh_bot id=7915533202 - 'ijdsgijsiodgjsiodgjiosg'
+2025-02-08 10:31:19 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-02-08 10:31:19 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7915533202)

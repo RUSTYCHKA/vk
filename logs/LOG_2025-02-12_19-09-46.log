@@ -1,0 +1,313 @@
+2025-02-12 19:09:47 - INFO - Start polling
+2025-02-12 19:09:47 - INFO - Run polling for bot @odfopjdfiohniodfhopjdfh_bot id=7915533202 - 'ijdsgijsiodgjsiodgjiosg'
+2025-02-12 19:10:23 - INFO - Update id=652331189 is handled. Duration 342 ms by bot id=7915533202
+2025-02-12 19:10:25 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:10:25 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:10:27 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-12 19:10:27 - INFO - File lives in another DC
+2025-02-12 19:10:27 - INFO - Connecting to 149.154.167.41:443/TcpFull...
+2025-02-12 19:10:30 - INFO - Connection to 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:10:30 - INFO - Exporting auth for new borrowed sender in DcOption(id=2, ip_address='149.154.167.41', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
+2025-02-12 19:10:36 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:10:36 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:10:36 - INFO - Disconnecting from 149.154.167.41:443/TcpFull...
+2025-02-12 19:10:36 - INFO - Disconnection from 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:10:50 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:10:50 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:10:51 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:10:51 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:11:57 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:11:57 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:11:58 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:11:58 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:15:05 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-02-12 19:15:05 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7915533202)
+2025-02-12 19:15:13 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:15:13 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:15:14 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:15:14 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:15:35 - INFO - Connection established (tryings = 1, bot id = 7915533202)
+2025-02-12 19:15:35 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:15:36 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:15:36 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:15:36 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:16:37 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:16:38 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:16:39 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:16:39 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:17:41 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:17:41 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:17:42 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:17:42 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:17:51 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:17:51 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:17:52 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:17:52 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:18:53 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:18:53 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:18:54 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:18:54 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:19:55 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:19:55 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:19:56 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:19:56 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:19:57 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:19:57 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:19:58 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:19:58 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:21:04 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:21:04 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:21:05 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:21:05 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:22:07 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:22:07 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:22:08 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:22:08 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:22:14 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:22:15 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:22:15 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:22:15 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:23:17 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:23:17 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:23:18 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:23:18 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:24:19 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:24:20 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:24:20 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-12 19:24:21 - INFO - File lives in another DC
+2025-02-12 19:24:21 - INFO - Connecting to 149.154.167.41:443/TcpFull...
+2025-02-12 19:24:25 - INFO - Connection to 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:24:25 - INFO - Exporting auth for new borrowed sender in DcOption(id=2, ip_address='149.154.167.41', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
+2025-02-12 19:24:31 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:24:31 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:24:31 - INFO - Disconnecting from 149.154.167.41:443/TcpFull...
+2025-02-12 19:24:31 - INFO - Disconnection from 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:25:37 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:25:37 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:25:38 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:25:38 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:26:39 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:26:39 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:26:40 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:26:40 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:27:42 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:27:42 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:27:43 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:27:43 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:28:44 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:28:44 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:28:45 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:28:45 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:28:52 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:28:52 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:28:53 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:28:53 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:29:54 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:29:54 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:29:55 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:29:55 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:30:56 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:30:57 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:30:57 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:30:57 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:31:59 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:31:59 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:32:00 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:32:00 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:33:01 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:33:01 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:33:02 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-12 19:33:02 - INFO - File lives in another DC
+2025-02-12 19:33:02 - INFO - Connecting to 149.154.167.41:443/TcpFull...
+2025-02-12 19:33:04 - INFO - Connection to 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:33:04 - INFO - Exporting auth for new borrowed sender in DcOption(id=2, ip_address='149.154.167.41', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
+2025-02-12 19:33:12 - INFO - User is already connected!
+2025-02-12 19:33:12 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:33:12 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:33:12 - INFO - Disconnecting from 149.154.167.41:443/TcpFull...
+2025-02-12 19:33:12 - INFO - Disconnection from 149.154.167.41:443/TcpFull complete!
+2025-02-12 19:34:18 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:34:18 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:34:19 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:34:19 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:35:28 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:35:28 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:35:29 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:35:29 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:36:36 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:36:36 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:36:37 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:36:37 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:37:38 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:37:39 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:37:39 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:37:39 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:38:46 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:38:46 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:38:47 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:38:47 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:39:48 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:39:48 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:39:49 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:39:49 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:40:59 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:41:00 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:41:00 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:41:00 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:42:07 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:42:07 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:42:08 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:42:08 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:43:09 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:43:10 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:43:10 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:43:10 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:44:18 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:44:19 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:44:19 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:44:19 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:45:20 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:45:21 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:45:21 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:45:21 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:46:23 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:46:23 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:46:24 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:46:24 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:47:26 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-12 19:47:26 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:47:27 - INFO - Disconnecting from 149.154.175.53:443/TcpFull...
+2025-02-12 19:47:27 - INFO - Disconnection from 149.154.175.53:443/TcpFull complete!
+2025-02-12 19:48:33 - INFO - Update id=652331190 is not handled. Duration 2288405 ms by bot id=7915533202
+2025-02-12 19:48:33 - ERROR - Cause exception while process update id=652331190 by bot id=7915533202
+OSError: [WinError 1453] Ќедостаточна€ квота дл€ завершени€ операции
+Traceback (most recent call last):
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RUSTYCHKA\Desktop\new_vk_project\handlers\start.py", line 126, in start_callback
+    group_id = vk_client.utils.resolveScreenName(screen_name=groupname)['object_id']
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\vk_api\vk_api.py", line 737, in __call__
+    return self._vk.method(self._method, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\vk_api\vk_api.py", line 660, in method
+    response = self.http.post(
+               ^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\RUSTYCHKA\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\RUSTYCHKA\Desktop\new_vk_project\handlers\start.py", line 294, in start_callback
+    print(e)
+OSError: [WinError 1453] Ќедостаточна€ квота дл€ завершени€ операции

@@ -1,0 +1,10 @@
+2025-02-08 10:45:13 - INFO - Start polling
+2025-02-08 10:45:13 - INFO - Run polling for bot @odfopjdfiohniodfhopjdfh_bot id=7915533202 - 'ijdsgijsiodgjsiodgjiosg'
+2025-02-08 10:45:23 - INFO - Update id=652331053 is handled. Duration 250 ms by bot id=7915533202
+2025-02-08 10:45:25 - INFO - Connecting to 149.154.175.53:443/TcpFull...
+2025-02-08 10:45:25 - INFO - Connection to 149.154.175.53:443/TcpFull complete!
+2025-02-08 10:45:31 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-08 10:45:31 - INFO - File lives in another DC
+2025-02-08 10:45:32 - INFO - Connecting to 149.154.167.41:443/TcpFull...
+2025-02-08 10:45:34 - INFO - Connection to 149.154.167.41:443/TcpFull complete!
+2025-02-08 10:45:34 - INFO - Exporting auth for new borrowed sender in DcOption(id=2, ip_address='149.154.167.41', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
