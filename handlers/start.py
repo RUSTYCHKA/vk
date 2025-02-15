@@ -181,7 +181,7 @@ async def start_callback(call: CallbackQuery) -> None:
                             await tg_client.download_media(msg.photo, "photo.jpg")
 
                             foto = upload.photo(
-                                'photo.jpg', album_id="306288203")
+                                'photo.jpg', album_id="306470339")
                             vk_photo_url = 'https://vk.com/photo{}_{}'.format(
                                 foto[0]['owner_id'], foto[0]['id'])
                             photo = vk_photo_url.replace('https://vk.com/', '')
@@ -238,7 +238,7 @@ async def start_callback(call: CallbackQuery) -> None:
                                     tmp_file.write(response.content)
                                     tmp_filename = tmp_file.name
                                 # Загружаем фото в ВК
-                                media = upload.photo(tmp_filename, album_id="306288203")
+                                media = upload.photo(tmp_filename, album_id="306470339")
                                 os.remove(tmp_filename)  # удаляем временный файл после загрузки
                                 vk_photo_url = 'https://vk.com/photo{}_{}'.format(
                                     media[0]['owner_id'], media[0]['id'])
@@ -272,7 +272,7 @@ async def start_callback(call: CallbackQuery) -> None:
                         ids["ria"].append(latest_article["text"])
                         if latest_article["media"]:
                             media = upload.photo(
-                                latest_article["media"], album_id="306288203")
+                                latest_article["media"], album_id="306470339")
                             vk_photo_url = 'https://vk.com/photo{}_{}'.format(
                                 media[0]['owner_id'], media[0]['id'])
                             photo = vk_photo_url.replace('https://vk.com/', '')
