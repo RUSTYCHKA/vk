@@ -228,7 +228,7 @@ async def start_callback(call: CallbackQuery) -> None:
                     # Инициализируем переменную для прикрепления (если медиа отсутствует, передадим пустую строку)
                     photo = ""
                     # Если новость отличается от предыдущей (порог схожести можно настроить)
-                    if ratio(post["text"], ids['lenta'][-1]) < 0.3:
+                    if ratio(post["text"], ids['lenta'][-1]) < 0.5:
                         ids['lenta'].append(post["text"])
                         if post["media"]:
                             # Скачиваем изображение по URL в уникальный временный файл
@@ -268,7 +268,7 @@ async def start_callback(call: CallbackQuery) -> None:
                 
                 latest_article = get_latest_article('https://ria.ru/lenta/')
                 if latest_article:
-                    if ratio(latest_article["text"], ids['ria'][-1]) < 0.3:
+                    if ratio(latest_article["text"], ids['ria'][-1]) < 0.5:
                         ids["ria"].append(latest_article["text"])
                         if latest_article["media"]:
                             media = upload.photo(
