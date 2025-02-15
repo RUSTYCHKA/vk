@@ -98,6 +98,14 @@ async def save_channels(message: Message, state: FSMContext):
     await message.answer("Список ТГ каналов сохранён.", reply_markup=kb.menu)
     await state.clear()
 
+
+def upload_photo(file_path, url):
+    with open(file_path, 'rb') as file:
+        files = {'photo': file}
+        response = requests.post(url, files=files)
+    return response.json()
+
+
 @handlers_router.callback_query(F.data.startswith("start="))
 async def start_callback(call: CallbackQuery) -> None:
     act = call.data.split("=")[1]
@@ -125,7 +133,8 @@ async def start_callback(call: CallbackQuery) -> None:
 
                 group_id = vk_client.utils.resolveScreenName(screen_name=groupname)['object_id']
                 
-                
+                server = vk_client.photos.getWallUploadServer(group_id=group_id)
+                server_id = server['album_id']
                 for url in urls:
                     
                     
@@ -179,11 +188,13 @@ async def start_callback(call: CallbackQuery) -> None:
                         elif msg.photo:
                             
                             await tg_client.download_media(msg.photo, "photo.jpg")
+                            res = upload_photo("photo.jpg", server['upload_url'])
+                            media =vk_client.photos.saveWallPhoto(
+                                group_id=group_id, server=res['server'], photo=res['photo'], hash=res['hash']
+                            )
 
-                            foto = upload.photo(
-                                'photo.jpg', album_id="306470339")
                             vk_photo_url = 'https://vk.com/photo{}_{}'.format(
-                                foto[0]['owner_id'], foto[0]['id'])
+                                media[0]['owner_id'], media[0]['id'])
                             photo = vk_photo_url.replace('https://vk.com/', '')
                             # Проверка на рекламу
                             ad_check_prompt = f"Определи, является ли этот текст рекламным. Ответь строго: 'Реклама есть' или 'Реклама нет'. Текст: {
@@ -238,8 +249,13 @@ async def start_callback(call: CallbackQuery) -> None:
                                     tmp_file.write(response.content)
                                     tmp_filename = tmp_file.name
                                 # Загружаем фото в ВК
-                                media = upload.photo(tmp_filename, album_id="306470339")
-                                os.remove(tmp_filename)  # удаляем временный файл после загрузки
+                                    res = upload_photo(tmp_filename, server['upload_url'])
+                                    media =vk_client.photos.saveWallPhoto(
+                                        group_id=group_id, server=res['server'], photo=res['photo'], hash=res['hash']
+                                    )
+
+                                
+                                os.remove(tmp_filename)
                                 vk_photo_url = 'https://vk.com/photo{}_{}'.format(
                                     media[0]['owner_id'], media[0]['id'])
                                 photo = vk_photo_url.replace('https://vk.com/', '')
@@ -271,8 +287,11 @@ async def start_callback(call: CallbackQuery) -> None:
                     if ratio(latest_article["text"], ids['ria'][-1]) < 0.5:
                         ids["ria"].append(latest_article["text"])
                         if latest_article["media"]:
-                            media = upload.photo(
-                                latest_article["media"], album_id="306470339")
+                            res = upload_photo(
+                                latest_article["media"], server['upload_url'])
+                            media = vk_client.photos.saveWallPhoto(
+                                group_id=group_id, server=res['server'], photo=res['photo'], hash=res['hash']
+                            )
                             vk_photo_url = 'https://vk.com/photo{}_{}'.format(
                                 media[0]['owner_id'], media[0]['id'])
                             photo = vk_photo_url.replace('https://vk.com/', '')
