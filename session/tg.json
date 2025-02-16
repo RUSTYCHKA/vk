@@ -1,7 +1,7 @@
 {
     "app_id": 2040,
     "app_hash": "b18441a1ff607e10a989891a5462e627",
-    "device": "BLQE-ELITE",
+    "device": "KWO_5PUYJ-PRO",
     "sdk": "Windows 10",
     "app_version": "5.4.1 x64",
     "system_lang_pack": "en",
@@ -10,9 +10,9 @@
     "lang_code": "en",
     "twoFA": null,
     "role": "",
-    "id": 7516080317,
-    "phone": "244944924865",
-    "username": "color61380",
+    "id": 7831779188,
+    "phone": "244940986829",
+    "username": "kesewel13544",
     "date_of_birth": null,
     "date_of_birth_integrity": null,
     "is_premium": false,
@@ -21,12 +21,12 @@
     "register_time": 1735325958,
     "last_check_time": 1735325958,
     "avatar": null,
-    "first_name": "Андрей",
-    "last_name": "Владимиров",
+    "first_name": "Дмитрий",
+    "last_name": "Арсеньев",
     "sex": null,
     "proxy": null,
     "ipv6": false,
-    "session_file": "+244944924865",
+    "session_file": "+244940986829",
     "status": true,
-    "last_time_check": "2025-02-13 19:21:25"
+    "last_time_check": "2025-02-16 15:47:06"
 }
